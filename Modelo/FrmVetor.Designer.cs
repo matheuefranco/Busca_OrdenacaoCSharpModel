@@ -109,15 +109,15 @@
             this.txtEntrada.Location = new System.Drawing.Point(26, 240);
             this.txtEntrada.Name = "txtEntrada";
             this.txtEntrada.Size = new System.Drawing.Size(917, 30);
-            this.txtEntrada.TabIndex = 17;
+            this.txtEntrada.TabIndex = 0;
             // 
             // btnOrdenar
             // 
             this.btnOrdenar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOrdenar.Location = new System.Drawing.Point(190, 294);
+            this.btnOrdenar.Location = new System.Drawing.Point(180, 294);
             this.btnOrdenar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnOrdenar.Name = "btnOrdenar";
-            this.btnOrdenar.Size = new System.Drawing.Size(105, 44);
+            this.btnOrdenar.Size = new System.Drawing.Size(90, 44);
             this.btnOrdenar.TabIndex = 18;
             this.btnOrdenar.Text = "Ordenar";
             this.btnOrdenar.UseVisualStyleBackColor = true;
@@ -126,12 +126,12 @@
             // btnBuscar
             // 
             this.btnBuscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnBuscar.Location = new System.Drawing.Point(336, 294);
+            this.btnBuscar.Location = new System.Drawing.Point(310, 294);
             this.btnBuscar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnBuscar.Name = "btnBuscar";
-            this.btnBuscar.Size = new System.Drawing.Size(105, 44);
+            this.btnBuscar.Size = new System.Drawing.Size(157, 44);
             this.btnBuscar.TabIndex = 19;
-            this.btnBuscar.Text = "Buscar";
+            this.btnBuscar.Text = "Busca Sequencial";
             this.btnBuscar.UseVisualStyleBackColor = true;
             this.btnBuscar.Click += new System.EventHandler(this.BtnBuscar_Click);
             // 
@@ -185,11 +185,11 @@
             // btnAdd
             // 
             this.btnAdd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAdd.Location = new System.Drawing.Point(57, 294);
+            this.btnAdd.Location = new System.Drawing.Point(58, 294);
             this.btnAdd.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(105, 44);
-            this.btnAdd.TabIndex = 24;
+            this.btnAdd.Size = new System.Drawing.Size(88, 44);
+            this.btnAdd.TabIndex = 1;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = true;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
