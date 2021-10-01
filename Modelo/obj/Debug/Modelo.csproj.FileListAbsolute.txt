@@ -1,0 +1,74 @@
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\bin\Debug\Modelo.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\bin\Debug\Modelo.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.Form1.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.pdb
+C:\Users\mefma\source\repos\Aula1208WinForms\Modelo\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\mefma\source\repos\Aula1208WinForms\Modelo\Modelo\bin\Debug\Modelo.exe
+C:\Users\mefma\source\repos\Aula1208WinForms\Modelo\Modelo\bin\Debug\Modelo.pdb
+C:\Users\mefma\source\repos\Aula1208WinForms\Modelo\Modelo\obj\Debug\Modelo.Form1.resources
+C:\Users\mefma\source\repos\Aula1208WinForms\Modelo\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+C:\Users\mefma\source\repos\Aula1208WinForms\Modelo\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+C:\Users\mefma\source\repos\Aula1208WinForms\Modelo\Modelo\obj\Debug\Modelo.exe
+C:\Users\mefma\source\repos\Aula1208WinForms\Modelo\Modelo\obj\Debug\Modelo.pdb
+C:\Users\mefma\Source\Repos\Aula1208WinForms\Modelo\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\mefma\Source\Repos\Aula1208WinForms\Modelo\Modelo\obj\Debug\Modelo.FrmVetor.resources
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\bin\Debug\Modelo.exe
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\bin\Debug\Modelo.pdb
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\obj\Debug\Modelo.FrmVetor.resources
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\obj\Debug\Modelo.Form1.resources
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\obj\Debug\Modelo.exe
+C:\Users\mefma\Source\Repos\vetorWindowsFormsAula0209\Modelo\obj\Debug\Modelo.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\bin\Debug\Modelo.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\bin\Debug\Modelo.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\obj\Debug\Modelo.FrmVetor.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\obj\Debug\Modelo.Form1.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\obj\Debug\Modelo.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\vetorWindowsFormsSorts\Modelo\obj\Debug\Modelo.pdb
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\bin\Debug\Modelo.exe
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\bin\Debug\Modelo.pdb
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\obj\Debug\Modelo.FrmVetor.resources
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\obj\Debug\Modelo.Form1.resources
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\obj\Debug\Modelo.exe
+C:\Users\mefma\Source\Repos\sortCSharp\Modelo\obj\Debug\Modelo.pdb
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\bin\Debug\Modelo.exe
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\bin\Debug\Modelo.pdb
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\obj\Debug\Modelo.FrmVetor.resources
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\obj\Debug\Modelo.Form1.resources
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\obj\Debug\Modelo.exe
+C:\Users\andre\Downloads\trabalho\sortCSharp-master\Modelo\obj\Debug\Modelo.pdb
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\bin\Debug\Modelo.exe.config
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\bin\Debug\Modelo.exe
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\bin\Debug\Modelo.pdb
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\obj\Debug\Modelo.FrmVetor.resources
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\obj\Debug\Modelo.exe
+D:\mef\IF\ED II\Semana 4  -Busca\Trabalho Buscar Ordenação C#\ModeloTrabalho\Modelo\obj\Debug\Modelo.pdb
